@@ -27,7 +27,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
-README-Smilga.md
+.env
 
 # vercel
 .vercel
@@ -35,3 +35,6 @@ README-Smilga.md
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# others
+README-Smilga.md
